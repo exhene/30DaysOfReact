@@ -1,2 +1,1 @@
-# generalducko
-to honor myself
+# 30DaysOfReact
