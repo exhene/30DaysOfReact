@@ -1,0 +1,2 @@
+# generalducko
+to honor myself
