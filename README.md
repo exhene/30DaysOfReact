@@ -1,4 +1,4 @@
-# IntroToReactJS
+# TestingReactJS
 
 ReactJS is a popular JavaScript library for building user interfaces (UIs) in web applications. It was developed by Facebook and is currently maintained by Facebook and a community of developers.
 
